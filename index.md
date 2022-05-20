@@ -35,7 +35,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Press
 
-Placeholder...
+Coming soon...
 
 ### Support or Contact
 
