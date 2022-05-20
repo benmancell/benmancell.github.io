@@ -1,12 +1,3 @@
----
-layout: page
-title: About Me
-tags: [Jekyll, data, visualization, analytics, template]
-image:
-  feature: NB_CommercialSqFt_1997_2016.jpg
-  credit: 
-  creditlink: 
----
 ### About Me
 
 You can use the [editor on GitHub](https://github.com/benmancell/benmancell.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
