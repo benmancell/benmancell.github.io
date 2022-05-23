@@ -7,9 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Web Map Applications
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing.
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+[Active New Building and Major Alteration Permits](https://benmancell.github.io/ActiveNB_A1enlargements/index_ChartsLyrs.html).
 
 ### Dashboards
 
