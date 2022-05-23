@@ -6,17 +6,15 @@ You can use the [editor on GitHub](https://github.com/benmancell/benmancell.gith
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Web Map Applications
-
-*<a>[Active New Building and Major Alteration Permits](https://benmancell.github.io/ActiveNB_A1enlargements/index_ChartsLyrs.html){:target="_blank"}</a>
-
-*<a>[Active Sidewalk Sheds](https://benmancell.github.io/ActiveShedPermits/index_ChartsLyrs.html){:target="_blank"}</a>
-
+<ul>
+<li>[Active New Building and Major Alteration Permits](https://benmancell.github.io/ActiveNB_A1enlargements/index_ChartsLyrs.html){:target="_blank"}</li>
+<li>[Active Sidewalk Sheds](https://benmancell.github.io/ActiveShedPermits/index_ChartsLyrs.html){:target="_blank"}</li>
+</ul>
 ### Dashboards
-
-*<a>[Mobile Summons](https://benmancell.github.io/MobileSummonsDashboard/index2.html){:target="_blank"}</a>
-
-*<a>[NYC Construction Dashboard](https://benmancell.github.io/ConstructionDashboard_2021/index.html){:target="_blank"}</a>
-
+<ul>
+<li>[Mobile Summons](https://benmancell.github.io/MobileSummonsDashboard/index2.html){:target="_blank"}</li>
+<li>[NYC Construction Dashboard](https://benmancell.github.io/ConstructionDashboard_2021/index.html){:target="_blank"}</li>
+</ul>
 ### Press
 
 Coming soon...
