@@ -7,11 +7,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Web Map Applications
 
-[Active New Building and Major Alteration Permits](https://benmancell.github.io/ActiveNB_A1enlargements/index_ChartsLyrs.html).
+[Active New Building and Major Alteration Permits](https://benmancell.github.io/ActiveNB_A1enlargements/index_ChartsLyrs.html){:target="_blank"}
+
+[Active Sidewalk Sheds](https://benmancell.github.io/ActiveShedPermits/index_ChartsLyrs.html){:target="_blank"}
 
 ### Dashboards
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/benmancell/benmancell.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Mobile Summons](https://benmancell.github.io/MobileSummonsDashboard/index2.html){:target="_blank"}
 
 ### Press
 
