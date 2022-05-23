@@ -10,14 +10,30 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 - [Major Construction](https://benmancell.github.io/ActiveNB_A1enlargements/index_ChartsLyrs.html){:target="_blank"}
 
+- Community Profiles
+
 - [Active Sidewalk Sheds](https://benmancell.github.io/ActiveShedPermits/index_ChartsLyrs.html){:target="_blank"}
+
+- Sustainability (Greenhouse Gas Emission and Energy Grades)
 
 - [Local Law 104](https://benmancell.github.io/LL104/index_vioUnitRatio.html){:target="_blank"}
 
+- Violations
+
+- Old Law Tenements
+
 ### Dashboards
+- Citywide Performance Reporting (CPR)
+
 - [Mobile Summons](https://benmancell.github.io/MobileSummonsDashboard/index2.html){:target="_blank"}
 
 - [NYC Construction Dashboard](https://benmancell.github.io/ConstructionDashboard_2021/index.html){:target="_blank"}
+
+- Strategy Tracker
+
+- Sankey Visualization
+
+- Bubble Visualization
 
 ### Press
 
