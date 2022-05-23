@@ -7,15 +7,15 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Web Map Applications
 
-[Active New Building and Major Alteration Permits](https://benmancell.github.io/ActiveNB_A1enlargements/index_ChartsLyrs.html){:target="_blank"}
+*<a>[Active New Building and Major Alteration Permits](https://benmancell.github.io/ActiveNB_A1enlargements/index_ChartsLyrs.html){:target="_blank"}</a>
 
-[Active Sidewalk Sheds](https://benmancell.github.io/ActiveShedPermits/index_ChartsLyrs.html){:target="_blank"}
+*<a>[Active Sidewalk Sheds](https://benmancell.github.io/ActiveShedPermits/index_ChartsLyrs.html){:target="_blank"}</a>
 
 ### Dashboards
 
-[Mobile Summons](https://benmancell.github.io/MobileSummonsDashboard/index2.html){:target="_blank"}
+*<a>[Mobile Summons](https://benmancell.github.io/MobileSummonsDashboard/index2.html){:target="_blank"}</a>
 
-[NYC Construction Dashboard](https://benmancell.github.io/ConstructionDashboard_2021/index.html){:target="_blank"}
+*<a>[NYC Construction Dashboard](https://benmancell.github.io/ConstructionDashboard_2021/index.html){:target="_blank"}</a>
 
 ### Press
 
