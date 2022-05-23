@@ -6,9 +6,11 @@ You can use the [editor on GitHub](https://github.com/benmancell/benmancell.gith
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Web Map Applications
-- [Active New Building and Major Alteration Permits](https://benmancell.github.io/ActiveNB_A1enlargements/index_ChartsLyrs.html){:target="_blank"}
+- [Major Construction](https://benmancell.github.io/ActiveNB_A1enlargements/index_ChartsLyrs.html){:target="_blank"}
 
 - [Active Sidewalk Sheds](https://benmancell.github.io/ActiveShedPermits/index_ChartsLyrs.html){:target="_blank"}
+
+- [Local Law 104](https://benmancell.github.io/LL104/index_vioUnitRatio.html){:target="_blank"}
 
 ### Dashboards
 - [Mobile Summons](https://benmancell.github.io/MobileSummonsDashboard/index2.html){:target="_blank"}
