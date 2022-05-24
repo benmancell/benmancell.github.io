@@ -27,7 +27,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 - [NYC Construction Dashboard](https://benmancell.github.io/ConstructionDashboard_2021/index.html){:target="_blank"}
 
-- Strategy Tracker
+- [Strategy Tracker](https://benmancell.github.io/StrategyTracker/){:target="_blank"}
 
 - Sankey Visualization
 
