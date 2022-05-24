@@ -20,10 +20,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 - [Violations](https://benmancell.github.io/Violations/index_choropleth_txt.html){:target="_blank"}
 
-- Old Law Tenements
-
 ### Dashboards
-- Citywide Performance Reporting (CPR)
+- [Citywide Performance Reporting (CPR)](https://benmancell.github.io/CitywidePerformanceReporting/index.html){:target="_blank"}
 
 - [Mobile Summons](https://benmancell.github.io/MobileSummonsDashboard/index2.html){:target="_blank"}
 
