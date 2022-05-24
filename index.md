@@ -18,7 +18,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 - [Local Law 104](https://benmancell.github.io/LL104/index_vioUnitRatio.html){:target="_blank"}
 
-- Violations
+- [Violations](https://benmancell.github.io/Violations/index_choropleth_txt.html){:target="_blank"}
 
 - Old Law Tenements
 
