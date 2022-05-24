@@ -10,7 +10,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 - [Major Construction](https://benmancell.github.io/ActiveNB_A1enlargements/index_ChartsLyrs.html){:target="_blank"}
 
-- Community Profiles
+- [Community Profiles](https://benmancell.github.io/CommunityProfiles/index.html){:target="_blank"}
 
 - [Active Sidewalk Sheds](https://benmancell.github.io/ActiveShedPermits/index_ChartsLyrs.html){:target="_blank"}
 
