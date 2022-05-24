@@ -14,7 +14,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 - [Active Sidewalk Sheds](https://benmancell.github.io/ActiveShedPermits/index_ChartsLyrs.html){:target="_blank"}
 
-- Sustainability (Greenhouse Gas Emission and Energy Grades)
+- [Sustainability (Greenhouse Gas Emission and Energy Grades)](https://benmancell.github.io/SustainabilityMaps/){:target="_blank"}
 
 - [Local Law 104](https://benmancell.github.io/LL104/index_vioUnitRatio.html){:target="_blank"}
 
