@@ -29,7 +29,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 - [Strategy Tracker](https://benmancell.github.io/StrategyTracker/){:target="_blank"}
 
-- Sankey Visualization
+- [Complaint Response Time (Sankey Diagram)](https://benmancell.github.io/SankeyDiagram/index.html){:target="_blank"}
 
 - Bubble Visualization
 
