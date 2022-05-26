@@ -29,7 +29,7 @@ Coming soon...
 
 - [Complaint Response Time (Sankey Diagram)](https://benmancell.github.io/SankeyDiagram/index.html){:target="_blank"}
 
-- Bubble Visualization
+- [Vacates Issued (Bubble Chart)](https://benmancell.github.io/BubbleChart/index_vacates.html){:target="_blank"}
 
 ### Press
 
