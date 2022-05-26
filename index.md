@@ -1,4 +1,4 @@
-![Image](NB_Residential.gif)
+![Image](NB_Residential_1996_2021.gif)
 ### About Me
 
 You can use the [editor on GitHub](https://github.com/benmancell/benmancell.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
