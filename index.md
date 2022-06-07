@@ -32,7 +32,7 @@ Coming soon...
 
 - [Vacates Issued (Bubble Chart)](https://benmancell.github.io/BubbleChart/index_vacates.html){:target="_blank"}
 
-- [Permits & Sub-Permits (Sunburst Chart)](https://benmancell.github.io/SunburstChart/index.html){:target="_blank"}
+- [Permits & Sub-Permits (Sunburst Chart/Collapsible Tree)](https://benmancell.github.io/SunburstChart/index.html){:target="_blank"}
  
 ### Press
 
