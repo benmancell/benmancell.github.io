@@ -38,7 +38,7 @@ Geospatial Developer with expertise in creating custom interactive web-based map
 - [NYC Sidewalk Sheds](https://www.nytimes.com/2017/05/02/nyregion/new-york-has-280-miles-of-scaffolding-and-a-map-to-navigate-it.html?smid=tw-nytmetro&smtyp=cur){:target="_blank"}
 - [All the City's Sidewalk Sheds](https://www.nytimes.com/2018/06/14/realestate/sidewalk-construction-sheds-daily-count.html){:target="_blank"}
 
-<h4><i>*About the above map: kernel density time-series map visualizing 25 years of residential new building construction in NYC.</i></h4>
+<p class="small text-muted"><i>*About the above map: kernel density time-series map visualizing 25 years of residential new building construction in NYC.</i></p>
 
 
 
