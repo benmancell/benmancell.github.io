@@ -38,4 +38,14 @@ Coming soon...
  
 ### Press
 
-Coming soon...
+- [Construction On Your Block Map](https://gothamist.com/news/new-real-time-construction-on-your-block-map-launched-by-nyc-department-of-buildings){:target="_blank"}
+- [NYC Building Boom](https://www.nytimes.com/2017/11/30/realestate/construction-permits-and-a-new-york-building-boom.html?smid=tw-share){:target="_blank"}
+- [Real-Time Map Tracks Building Frenzy](https://www.nytimes.com/2018/08/21/nyregion/construction-map-buildings-department.html?smtyp=cur&smid=tw-nytmetro){:target="_blank"}
+- [NYC Sidewalk Sheds Real-Time Map](https://ny.curbed.com/2018/4/11/17226456/nyc-sidewalk-shed-map-real-time){:target="_blank"}
+- [NYC Construction Downturn](https://www.crainsnewyork.com/real-estate/end-era-construction-permits-declined-2018){:target="_blank"}
+- [Covid 19 Essential Businesses](https://ny.curbed.com/2020/4/3/21206956/new-york-construction-sites-map-coronavirus){:target="_blank"}
+- [NYC Sidewalk Sheds](https://www.nytimes.com/2017/05/02/nyregion/new-york-has-280-miles-of-scaffolding-and-a-map-to-navigate-it.html?smid=tw-nytmetro&smtyp=cur){:target="_blank"}
+- [All the City's Sidewalk Sheds](https://www.nytimes.com/2018/06/14/realestate/sidewalk-construction-sheds-daily-count.html){:target="_blank"}
+
+
+
