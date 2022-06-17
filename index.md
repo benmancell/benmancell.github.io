@@ -1,7 +1,6 @@
 ![Image](NB_Residential_1996_2021.gif)
 ### About Me
-
-Coming soon...
+Geospatial Developer with expertise in creating custom interactive web-based mapping applications, dashboards and data visualizations using open-source tools including Leaflet, MapBox, JavaScript, D3.js, NVD3.js, HTML, CSS, and Bootstrap.
 
 ### Web Map Applications
 - [Facade Filings](https://benmancell.github.io/FacadeFilings/index_facade_cycle9.html){:target="_blank"}
