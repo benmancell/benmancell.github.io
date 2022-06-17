@@ -5,35 +5,23 @@ Coming soon...
 
 ### Web Map Applications
 - [Facade Filings](https://benmancell.github.io/FacadeFilings/index_facade_cycle9.html){:target="_blank"}
-
 - [Major Construction](https://benmancell.github.io/ActiveNB_A1enlargements/index_ChartsLyrs.html){:target="_blank"}
-
 - [Community Profiles](https://benmancell.github.io/CommunityProfiles/index.html){:target="_blank"}
-
 - [Active Sidewalk Sheds](https://benmancell.github.io/ActiveShedPermits/index_ChartsLyrs.html){:target="_blank"}
-
 - [Sustainability (Greenhouse Gas Emission and Energy Grades)](https://benmancell.github.io/SustainabilityMaps/){:target="_blank"}
-
 - [Local Law 104](https://benmancell.github.io/LL104/index_vioUnitRatio.html){:target="_blank"}
-
 - [Violations](https://benmancell.github.io/Violations/index_choropleth_txt.html){:target="_blank"}
 
 ### Dashboards
 - [Citywide Performance Reporting (CPR)](https://benmancell.github.io/CitywidePerformanceReporting/index.html){:target="_blank"}
-
 - [Mobile Summons](https://benmancell.github.io/MobileSummonsDashboard/index2.html){:target="_blank"}
-
 - [NYC Construction Dashboard](https://benmancell.github.io/ConstructionDashboard_2021/index.html){:target="_blank"}
-
 - [Strategy Tracker](https://benmancell.github.io/StrategyTracker/){:target="_blank"}
 
 ### Data Visualizations
 - [Complaint Response Time (Sankey Diagram)](https://benmancell.github.io/SankeyDiagram/index.html){:target="_blank"}
-
 - [Vacates Issued (Bubble Chart)](https://benmancell.github.io/BubbleChart/index_vacates.html){:target="_blank"}
-
 - [Permits & Sub-Permits (Sunburst Chart/Collapsible Tree)](https://benmancell.github.io/SunburstChart/index.html){:target="_blank"}
-
 - [Construction Related Injuries (Calendar Heatmap)](https://benmancell.github.io/CalendarHeatMap/heatMap_injuries.html){:target="_blank"}
  
 ### Press
@@ -47,7 +35,7 @@ Coming soon...
 - [DOB Releases Construction Dashboard](https://www.paintsquare.com/news/view/?17768){:target="_blank"}
 - [NYC Sidewalk Sheds Real-Time Map](https://ny.curbed.com/2018/4/11/17226456/nyc-sidewalk-shed-map-real-time){:target="_blank"}
 - [NYC Construction Downturn](https://www.crainsnewyork.com/real-estate/end-era-construction-permits-declined-2018){:target="_blank"}
-- [Covid 19 Essential Businesses](https://ny.curbed.com/2020/4/3/21206956/new-york-construction-sites-map-coronavirus){:target="_blank"}
+- [Covid-19 Essential Businesses](https://ny.curbed.com/2020/4/3/21206956/new-york-construction-sites-map-coronavirus){:target="_blank"}
 - [NYC Sidewalk Sheds](https://www.nytimes.com/2017/05/02/nyregion/new-york-has-280-miles-of-scaffolding-and-a-map-to-navigate-it.html?smid=tw-nytmetro&smtyp=cur){:target="_blank"}
 - [All the City's Sidewalk Sheds](https://www.nytimes.com/2018/06/14/realestate/sidewalk-construction-sheds-daily-count.html){:target="_blank"}
 
